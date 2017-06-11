@@ -5,9 +5,9 @@ Composed of a musical and unique graphical code editor, it utilizes two of the m
 
 By coupling drag-and-drop (physical movement of the mouse) with a unique musical tune for each code block, as well as a unique graphical element for each code block, man moves through the code-space like a dervish on a sand-dune.
 
-
 All code is kept in nodes. A node has a text block and a unique name. There are single-nodes, and multi-nodes. Multi-nodes have a little green underline bar over their icon. Nodes have icons which are randomly generated. Nodes have a musical tune which is randomly generated.
 
+Code is stored in a local sqlite database
 
 ![screenshot](g-lever-screenshot.png)
 
