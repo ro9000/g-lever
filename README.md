@@ -9,7 +9,7 @@ By coupling drag-and-drop (physical movement of the mouse) with a unique musical
 All code is kept in nodes. A node has a text block and a unique name. There are single-nodes, and multi-nodes. Multi-nodes have a little green underline bar over their icon. Nodes have icons which are randomly generated. Nodes have a musical tune which is randomly generated.
 
 
-[screenshot](g-lever-screenshot.jpg)
+![screenshot](g-lever-screenshot.jpg)
 
 
 When you double click on a single-node, you will open its text block and you can edit it. When you double click on a multi-node, you will open a window showing you its child nodes. 
